@@ -7,7 +7,6 @@
 [![codecov](https://codecov.io/gh/YOUR_USERNAME/YOUR_REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/mhzardary/london-strategy-backtest)
 
 
-
 While studying various strategies for trading the FOREX market, I came across the **"London Open Breakout 
 Strategy"** — a well-known approach aimed at achieving stable, low-risk profits.[1],[2],[3] 
 
