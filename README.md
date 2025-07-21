@@ -125,7 +125,7 @@ This highlights the importance of ongoing evaluation and adaptive parameter tuni
 
 ### 2. Strategy performance based on direction of signals:
 
-![Total Confusion Matrix (All Symbols).png](results\Total%20Confusion%20Matrix%20(All%20Symbols).png)
+![Total Confusion Matrix (All Symbols).png](results/Total%20Confusion%20Matrix%20(All%20Symbols).png)
 
 As you can see, the confusion matrix below shows how well the strategy predicted price direction after generating trade
 signals.
@@ -198,7 +198,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 ### 4. Set Up Environment Configuration
-Create a .env file inside the config/ folder, check env.example as a template.
+Create a `.env` file inside the `config/` folder, check `env.example` as a template.
 
 ### 5. Run the code
 ```bash
@@ -243,7 +243,8 @@ Using indicators like Bollinger Bands or ATR would help to filter out some fake 
 ## License
 This project is licensed under the MIT License.
 
-**Disclaimer**: This software is provided for educational and research purposes only. Use it at your own risk. The author assumes no responsibility for any losses or damages resulting from the use of this software.
+## Disclaimer: 
+This software is provided for educational and research purposes only. Use it at your own risk. The author assumes no responsibility for any losses or damages resulting from the use of this software.
 
 
 ## References
