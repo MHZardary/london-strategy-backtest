@@ -1,6 +1,6 @@
 # "London Open Breakout Strategy" Backtest
 
-![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/github/license/mhzardary/london-strategy-backtest)
 ![Last Commit](https://img.shields.io/github/last-commit/mhzardary/london-strategy-backtest)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
