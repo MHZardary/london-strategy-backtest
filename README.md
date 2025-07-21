@@ -4,7 +4,8 @@
 ![License](https://img.shields.io/github/license/mhzardary/london-strategy-backtest)
 ![Last Commit](https://img.shields.io/github/last-commit/mhzardary/london-strategy-backtest)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
-![Coverage](https://img.shields.io/badge/coverage-20%25-green) <!-- You can update this manually or connect to a coverage service -->
+[![codecov](https://codecov.io/gh/YOUR_USERNAME/YOUR_REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/mhzardary/london-strategy-backtest)
+
 
 
 While studying various strategies for trading the FOREX market, I came across the **"London Open Breakout 
