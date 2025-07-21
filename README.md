@@ -10,6 +10,7 @@
 While studying various strategies for trading the FOREX market, I came across the **"London Open Breakout 
 Strategy"** — a well-known approach aimed at achieving stable, low-risk profits.[1],[2],[3] 
 
+
 This project implements a backtesting framework for this strategy on EUR/USD, GBP/USD, and GBP/JPY markets.
 It uses price action, Asian session range breakout logic, and filters based on economic news data.
 I have also used MACD and RSI as momentum indicators to avoid false breakouts, filtered out trades on days with major
