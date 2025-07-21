@@ -20,6 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This software is provided for educational and research purposes only.
+
+**Disclaimer**: This software is provided for educational and research purposes only.
 Use it at your own risk. The author assumes no responsibility for any losses or damages
 resulting from the use of this software.
